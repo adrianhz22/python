@@ -17,6 +17,9 @@ Permite gestionar tareas desde la terminal de manera sencilla. Puedes ver, añad
 - Eliminar tareas por número.
 - Manejo de errores para entradas inválidas.
 
+### Captura de pantalla
+![Terminal](images/gestor_terminal.PNG)
+
 ---
 
 ## 2. Versión con Interfaz Gráfica (GUI)
@@ -30,11 +33,15 @@ Utiliza `customtkinter` para ofrecer una interfaz visual interactiva. Permite:
 - Marcar tareas como completadas haciendo doble clic.
 - Guardar y cargar tareas automáticamente desde `GUI/tareas.json`.
 
+### Captura de pantalla
+![GUI](images/gestor_gui.PNG)
+
 ---
 
 ## Requisitos
 
 - Python 3.7 o superior
 - Paquete `customtkinter`:
+
 ```bash
 pip install customtkinter
