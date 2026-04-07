@@ -1,0 +1,14 @@
+{
+    "tareas": [
+        "Tender la ropa",
+        "Pasear al perro",
+        "Hacer la comida",
+        "Barrer la casa"
+    ],
+    "completadas": [
+        true,
+        true,
+        false,
+        false
+    ]
+}
